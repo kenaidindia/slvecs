@@ -15,6 +15,7 @@ git clone https://github.com/mrhenderson/slvecs.git GitHub
 The next step is to create a folder for yourself to share code, documents, etc. Create a user folder for yourself (replace <YourName> with your First Initial and last name):
 
 ```
+cd GitHub
 mkdir Username <YourName>
 cd ..
 ```
