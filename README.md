@@ -17,6 +17,7 @@ The next step is to create a folder for yourself to share code, documents, etc. 
 ```
 cd GitHub
 mkdir  <YourName>
+echo hello > <YourName>/hello.txt
 cd ..
 ```
 
