@@ -1,0 +1,28 @@
+<html>
+ <head>
+  <tittle>
+    Brodies first Webpage
+  </tittle>
+</head>
+  <body style="background-color:blue">
+    <h1>
+this takes forever
+    </h1>
+<p>
+     first link
+<br />I hope this works
+</p>
+<a href="http://google.com" title="brodies home page"> Brodies home page</a>
+<br /><img src="https://www.buzzparent.com/wp-content/uploads/2016/12/father-son-photo.jpg" alt="https://www.buzzparent.com/wp-content/uploads/2016/12/father-son-photo.jpg" width="300" height="300">
+ </body>
+</html>
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1 style="color:green">what I learned on creating html pages</h1>
+
+<p>I learned how to make web sites and what all of this means.</p>
+
+</body>
+</html>
