@@ -1,0 +1,25 @@
+<html>
+  <head>
+    <title>
+    Daniel's First Webpage
+    </title>
+  </head>
+<h1>
+  What I Learned on Creating html Pages
+ </h1>
+    <p>
+  I learned what components to use in making web pages with html.
+Also, it's not too difficult but I over think it,
+it is hard to grasp the idea of making a website.
+    </p>
+    <img
+    src="http://lzphoto.zenfolio.com/img/s/v-3/p508193720-4.jpg"
+    alt="Young JJ Jackman"
+    width=200
+    />
+    <a
+      href="http://hs.slvusd.org/"
+      Link to SLVUSD site
+    <a/>
+</body>
+</html>
