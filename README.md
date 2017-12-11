@@ -67,3 +67,4 @@ A normal git push won't work here, because the master repository doesn't know an
 ```
 git push --set-upstream origin <yourname>
 ```
+Our class web pages are published at https://mrhenderson.github.io/slvecs/
