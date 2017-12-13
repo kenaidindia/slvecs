@@ -1,54 +1,6 @@
 <!DOCTYPE html>
 <html>
 <style>
-/*page*/
-*{
-    box-sizing: border-box;
-}
-.row::after {
-    content: "";
-    clear: both;
-    display: table;
-}
-[class*="col-"] {
-    float: left;
-    padding: 15px;
-}
-.col-1 {width: 8.33%;}
-.col-2 {width: 16.66%;}
-.col-3 {width: 25%;}
-.col-4 {width: 33.33%;}
-.col-5 {width: 41.66%;}
-.col-6 {width: 50%;}
-.col-7 {width: 58.33%;}
-.col-8 {width: 66.66%;}
-.col-9 {width: 75%;}
-.col-10 {width: 83.33%;}
-.col-11 {width: 91.66%;}
-.col-12 {width: 100%;}
-html {
-    font-family: "Lucida Sans", sans-serif;
-}
-.header {
-    background-color: #f5f5f5;
-    color: #000000;
-    padding: 15px;
-}
-.menu ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-}
-.menu li {
-    padding: 8px;
-    margin-bottom: 7px;
-    background-color: #33b5e5;
-    color: #ffffff;
-    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
-}
-.menu li:hover {
-    background-color: #0099cc;
-}
 /*main stylesheet*/
         img.resize {height:auto;width:650px}
         body { background-color:whitesmoke}
@@ -57,13 +9,13 @@ html {
         h3.bama {color:rgb(158,27,50);font-family:Arial, Helvetica, sans-serif;}
         h3.lsu  {color:rgb(70, 29, 124);font-family:Arial, Helvetica, sans-serif;}
         h3.uva  {color:rgb(35,45,75);font-family:Arial, Helvetica, sans-serif;}
-        h3.umd  {color:rgb(224,58,62);font-family:Arial, Helvetica, sans-serif;}
+        h3.umd  {color:rgb(224,58,62)g;font-family:Arial, Helvetica, sans-serif;}
         h3.clem {color:rgb(234,106,32);font-family:Arial, Helvetica, sans-serif;}
         h3.tula {color:rgb(0,88,55);font-family:Arial, Helvetica, sans-serif;}
 /*links*/
         a {background-color:rgb(255, 255, 255);font-family:Arial, Helvetica, sans-serif;}
 
-        a.home {color:rgb(0, 0, 0)}
+        a.index {color:rgb(0, 0, 0)}
         a.bama {color:rgb(158,27,50)}
         a.lsu  {color:rgb(70, 29, 124)}
         a.uva  {color:rgb(35,45,75)}
@@ -72,7 +24,7 @@ html {
         a.tula {color:rgb(0,88,55)}
 
         a:hover {color:white}
-        a.home:hover {background-color:rgb(218, 218, 218)}
+        a.index:hover {background-color:rgb(218, 218, 218)}
         a.bama:hover {background-color:rgb(158,27,50)}
         a.lsu:hover  {background-color:rgb(70, 29, 124)}
         a.uva:hover  {background-color:rgb(35,45,75)}
@@ -80,7 +32,7 @@ html {
         a.clem:hover {background-color:rgb(234,106,32)}
         a.tula:hover {background-color:rgb(0,88,55)}
 
-        a.home:active {background-color:rgb(218, 218, 218)}
+        a.index:active {background-color:rgb(218, 218, 218)}
         a.bama:active {background-color:rgb(158,27,50)}
         a.lsu:active  {background-color:rgb(70, 29, 124)}
         a.uva:active  {background-color:rgb(35,45,75)}
@@ -98,7 +50,7 @@ html {
 <head>
 <nav>
  <ul>
-        <li><a class=home href="webpage.html">Home</a></li>
+        <li><a class=index href="webpage.html">Home</a></li>
         <li><a class=bama href="bama.html">Alabama</a></li>
         <li><a class=lsu href="lsu.html">LSU</a></li>
         <li><a class=uva href="uva.html">Virginia</a></li>
@@ -109,59 +61,15 @@ html {
 </nav>
 <br>
 <br>
-<div>
 <h1>College Comparison Website</h1>
 <h2>Constructed by Craig Yeomans</h2>
-</div>
 </head>
-
 <body>
-        <!--Add actual content-->
-<div class=row>
-<div class="col-6, header">
- <table>
-        <th>
-                <td>Name</td>
-                <td>Tuition</td>
-                <td>Honors</td>
-        </th>
-        <tr>
-                <td></td>       
-                <td>Alabama</td>
-                <td>3900/yr</td> 
-                <td>Yes</td>      
-        </tr>
-        <tr>
-                <td></td>       
-                <td>LSU</td>
-                <td>3100/yr</td> 
-                <td>Yes</td>      
-        </tr>      
-        <tr>
-                <td></td>       
-                <td>Virginia</td>
-                <td>40,000/yr</td> 
-                <td>?</td>      
-        </tr>
-        <tr>
-                <td></td>       
-                <td>Maryland</td>
-                <td>35,000/yr</td> 
-                <td>?</td>      
-        </tr>
-        <tr>
-                <td></td>       
-                <td>Clemson</td>
-                <td>20,000/yr</td> 
-                <td>?</td>      
-        </tr>    
-        <tr>
-                <td></td>       
-                <td>Tulane</td>
-                <td>30,000/yr</td> 
-                <td>?</td>      
-        </tr>   
-</div>       
-</table>
+
+        <h3 class="uva">Virginia</h3>
+
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/ClientCardSample.png">
+
 </body>
+
 </html>
