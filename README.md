@@ -1,3 +1,5 @@
+# slvecs
+ECS Class Project Pages
 ## Get up and running with Git
 
 #Do not enter greater-than and less-than symbols, these indicate information that needs to be changed.
