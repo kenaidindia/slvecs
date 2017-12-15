@@ -1,3 +1,5 @@
+# slvecs
+ECS Class Project Pages
 ## Get up and running with Git
 
 #Do not enter greater-than and less-than symbols, these indicate information that needs to be changed.
@@ -67,3 +69,4 @@ A normal git push won't work here, because the master repository doesn't know an
 ```
 git push --set-upstream origin <yourname>
 ```
+Our class web pages are published at https://mrhenderson.github.io/slvecs/
