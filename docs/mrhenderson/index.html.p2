@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
   <head>
     <meta charset="utf-8">
@@ -6,17 +7,15 @@
   </head>
   <body>
     <figure>
-      <img src="img/TheGearCube.jpg" alt="3x3x3 Gear Cube, solved">
+      <img src="img/TGC.jpg" alt="3 by 3 Gear cube solved">
       <figcaption>
         <a href="https://en.wikipedia.org/wiki/Combination_puzzle">
-          3x3 Gear cube, solved
+          3 by 3 Gear cube solved
         </a>
-        <br />
-        by TheProdigy from Wikipedia
-        <br />
-        <a href="http://creativecommons.org/licenses/by-sa/4.0">
-          (CC by-sa 4.0)
-        </a>
+<br />
+by The Prodigy from Wikipedia
+<br />
+<a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>
 </figcaption>
     </figure>
   </body>
