@@ -6,22 +6,25 @@ h2{color:black;font-family:Arial,Helvetica,sans-serif;}
 a:hover{color:white}
 a:active{color:white}
 
+.crimson{color:rgb(158,27,50);font-family:Arial,Helvetica,sans-serif;}
+
+h1.crimson{color:rgb(158,27,50);font-family:Arial,Helvetica,sans-serif;}
 h3.crimson{color:rgb(158,27,50);font-family:Arial,Helvetica,sans-serif;}
-a.crimson{background-color:rgb(158,27,50)}
-a.crimson:active{background-color:rgb(158,27,100)}
+a.crimson{color:rgb(158,27,50)}
+a.crimson:active{background-color:rgb(158,27,100);color:white}
 a.crimson:hover{background-color:rgb(158,27,100)}
-p.crimson{color:rgb(158,27,50);font-family:Arial,Helvetica,sans-serif;}
+p.crimson{color:rgb(158,27,50);font-family:Arial,Helvetica,sans-serif}
 
 h3.bluedark{color:rgb(92,105,131);font-family:Arial,Helvetica,sans-serif}
-a.bluedark{background-color:rgb(92,105,131)}
-a.bluedark:active{background-color:rgb(92,105,131)}
-a.bluedark:hover{background-color:rgb(92,105,131)}
+a.bluedark{color:rgb(92,105,131)}
+a.bluedark:active{background-color:rgb(92,105,131);color:white;}
+a.bluedark:hover{background-color:rgb(92,105,131);color:white;}
 p.bluedark{color:rgb(92,105,131);font-family:Arial,Helvetica,sans-serif;}
 
 h3.bluelite{color:rgb(137,215,237);font-family:Arial,Helvetica,sans-serif}
-a.bluelite{background-color:rgb(137,215,237)}
-a.bluelite:active{background-color:rgb(137,215,237)}
-a.bluelite:hover{background-color:rgb(137,215,237)}
+a.bluelite{color:rgb(137,215,237)}
+a.bluelite:active{background-color:rgb(137,215,237);color:white;}
+a.bluelite:hover{background-color:rgb(137,215,237);color:white;}
 p.bluelite{color:rgb(137,215,237);font-family:Arial,Helvetica,sans-serif;}
 
 p{color:black;font-family:Arial,Helvetica,sans-serif;max-width:650px;text-align:justify}
@@ -32,3 +35,7 @@ li {float: left;border-bottom:1px solid#555;border-left:1px solid#555;border-top
 li:last-child {border-right:1px solid#555}
 li a {display:block;color:white;text-align:center;padding:14px 16px;text-decoration:none;}
 ul {list-style-type: none;margin:1;padding:0;overflow:auto;background-color:white;position:fixed;top:0;width:100%;}
+
+.right{width:12.5rem;background-color:rgb(240,240,240)}
+.right{overflow: auto;height: auto;padding: .5rem;-webkit-overflow-scrolling: touch;-ms-overflow-style:none}
+.Container {display: flex;overflow: hidden;height: 100vh;margin-top: -100px;padding-top: 100px;position: relative;width: 100%;backface-visibility: hidden;will-change: overflow;}
