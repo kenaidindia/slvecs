@@ -6,11 +6,16 @@ h2{color:black;font-family:Arial,Helvetica,sans-serif;}
 a:hover{color:white}
 a:active{color:white}
 
+h1.crimson{color:rgb(158,27,50);font-family:Arial,Helvetica,sans-serif;}
 h3.crimson{color:rgb(158,27,50);font-family:Arial,Helvetica,sans-serif;}
-a.crimson{background-color:rgb(158,27,50)}
-a.crimson:active{background-color:rgb(158,27,100)}
-a.crimson:hover{background-color:rgb(158,27,100)}
+a.crimson{background-color:rgb(158,27,50);color:white}
+a.crimson:active{background-color:white;color:rgb(158,27,50)}
+a.crimson:hover{background-color:white;color:rgb(158,27,50)}
 p.crimson{color:rgb(158,27,50);font-family:Arial,Helvetica,sans-serif;}
+
+.link{color:black;font-size:75%}
+.link:hover{color:rgb(158,27,50)}
+.link:active{color:rgb(158,27,50)}
 
 h3.bluedark{color:rgb(92,105,131);font-family:Arial,Helvetica,sans-serif}
 a.bluedark{background-color:rgb(92,105,131)}
@@ -24,11 +29,38 @@ a.bluelite:active{background-color:rgb(137,215,237)}
 a.bluelite:hover{background-color:rgb(137,215,237)}
 p.bluelite{color:rgb(137,215,237);font-family:Arial,Helvetica,sans-serif;}
 
-p{color:black;font-family:Arial,Helvetica,sans-serif;max-width:650px;text-align:justify}
+p{color:black;font-family:Arial,Helvetica,sans-serif;max-width:650px;text-align:justify;}
 p.a{color:rgb(158,27,50);font-family:Arial,Helvetica,sans-serif;}
 
-ul{list-style-type:none;margin:0;padding:0;overflow:hidden;background-color:#333;position:fixed;top:0;width:100%;}
-li {float: left;border-bottom:1px solid#555;border-left:1px solid#555;border-top:1px solid#555;}
-li:last-child {border-right:1px solid#555}
-li a {display:block;color:white;text-align:center;padding:14px 16px;text-decoration:none;}
-ul {list-style-type: none;margin:1;padding:0;overflow:auto;background-color:white;position:fixed;top:0;width:100%;}
+div.wrapper {
+margin-left : 5%;
+margin-right : 5%;
+}
+ul {
+    list-style-type: none;
+    margin:0;
+    padding: 0;
+    overflow:  none;
+    border: 1px solid #e7e7e7;
+    background-color: #f3f3f3;
+}
+
+li {
+    float:left;
+}
+
+li a {
+    display: block;
+    color: #666;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #ddd;
+}
+
+li a.active {
+    color: white;
+}
