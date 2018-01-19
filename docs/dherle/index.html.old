@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+  Danielle Herle webpage
+</title>
+</head>
+<body>
+  <h1>
+    I am sooooooo tired
+  </h1>
+  <p>
+    links. yaaaaay.
+  </p> <br/>I hope this link works
+  <a href="http://google.com" title ="Danielle Stuff"> Danielle Stuff</a>
+
+<img
+  src="http://animals.sandiegozoo.org/sites/default/files/2016-11/animals_hero_giraffe_1_0.jpg"
+  alt="giraffe"
+  />
+<a
+href="http://animals.sandiegozoo.org/">
+alt="link to the sight the giraffe was on"
+
+</body>
+</html>
