@@ -1,0 +1,11 @@
+p {
+  color:#00ff2391;
+  margin-left:30px;
+}
+h2 {
+  color:green;
+  margin-left:50px
+}
+#sectionone h2 {
+text-shadow: 4px -4px blue;
+}
