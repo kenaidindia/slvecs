@@ -1,0 +1,52 @@
+<html lang="en-US">
+  <head>
+    <title>
+      Cute Dogs
+    </title>
+  </head>
+    <body style="background-color:lightblue">
+      <h1 style="color:yellow">
+        Cute Dogs
+      </h1>
+      <h2>
+        Enjoy all these cute dogs!
+      </h2>
+      <p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Full_attention_%288067543690%29.jpg/1200px-Full_attention_%288067543690%29.jpg"
+        alt="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Full_attention_%288067543690%29.jpg/1200px-Full_attention_%288067543690%29.jpg"
+        width="250" height="200"/>
+        <img src="http://lovedachshund.com/wp-content/uploads/2016/06/short-haired-dachshund.jpg"
+        alt="http://lovedachshund.com/wp-content/uploads/2016/06/short-haired-dachshund.jpg"
+        width="250" height="200"/>
+        <img src="https://vetstreet.brightspotcdn.com/dims4/default/e1bbff7/2147483647/thumbnail/645x380/quality/90/?url=https%3A%2F%2Fvetstreet-brightspot.s3.amazonaws.com%2F04%2F43%2Fc530807343e5a684b6f0b5eaa4e0%2Fgreat-dane-ap-1xo5vr-645.jpg"
+        alt="https://vetstreet.brightspotcdn.com/dims4/default/e1bbff7/2147483647/thumbnail/645x380/quality/90/?url=https%3A%2F%2Fvetstreet-brightspot.s3.amazonaws.com%2F04%2F43%2Fc530807343e5a684b6f0b5eaa4e0%2Fgreat-dane-ap-1xo5vr-645.jpg"
+        width="250" height="200"/>
+      </p>
+      <p>
+        <ol><strong><em>Kinds of dogs</em></strong>
+          <li>
+            Pugs
+          </li>
+          <li>
+            Golden Retrievers
+          </li>
+          <li>
+            Beagle
+          </li>
+          <li>
+            Poodle
+          </li>
+          <li>
+            Rottweiler
+          </li>
+          <li>
+            Boxer
+          </li>
+        </ol>
+      </p>
+      <p>
+        <li><a href="page2.html">Page 2</a></li>
+      <li><a href="http://google.com"></a>Search for more dogs here</li>
+      </p>
+    </body>
+</html>
