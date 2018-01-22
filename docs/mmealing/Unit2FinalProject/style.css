@@ -24,16 +24,25 @@ li a:hover {
 }
 p {
 color:#C0C0C0;
-margin-left:30px;}
+margin-left:20px;
+margin-right:20px;
+}
+
 h2 {
-  color: red;
+  color: #444;
+
 }
 #sectionOne h2{
-  text-shadow: 3px 6px blue;
+
 }
 
 body {
-      background-color: #444;
+  background-color: grey;
       font-family: sans-serif;
-      background-image: url("forest.jpeg");
+
+//444
+}
+h1 {
+
+
 }
