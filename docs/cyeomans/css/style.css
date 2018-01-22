@@ -13,7 +13,7 @@ a.crimson:active{background-color:white;color:rgb(158,27,50)}
 a.crimson:hover{background-color:white;color:rgb(158,27,50)}
 p.crimson{color:rgb(158,27,50);font-family:Arial,Helvetica,sans-serif;}
 
-.link{color:black;font-size:75%}
+.link{color:rgb(255, 255, 255);font-size:75%}
 .link:hover{color:rgb(158,27,50)}
 .link:active{color:rgb(158,27,50)}
 
