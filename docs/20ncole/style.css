@@ -1,4 +1,7 @@
-ul {
+body {
+  background-color: lightgrey;
+}
+#navbar ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -6,43 +9,18 @@ ul {
     background-color: #333;
 }
 
-li {
+#navbar li {
     float: left;
 }
 
-li a {
+#navbar li a {
     display: block;
-    color: #111;
+    color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
 }
 
-
-li a:hover {
+#navbar li a:hover {
     background-color: #111;
-}
-p {
-color:#C0C0C0;
-margin-left:20px;
-margin-right:20px;
-}
-
-h2 {
-  color: #444;
-
-}
-#sectionOne h2{
-
-}
-
-body {
-  background-color: grey;
-      font-family: sans-serif;
-
-//444
-}
-h1 {
-
-
 }
