@@ -1,0 +1,29 @@
+body  {
+  background: white;
+
+}
+
+
+#navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #000000;
+}
+
+#navbar li {
+    float: left;
+}
+
+#navbar li a {
+    display: block;
+    color: Orange;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: wavy overline underline #2da343;
+}
+
+#navbar li a:hover {
+    background-color: #386533;
+}
