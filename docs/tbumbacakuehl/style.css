@@ -3,18 +3,18 @@
   color:hotpink;
 }
 p {
-  color:lightblue;
-  margin-left: 30px;
+  color:black;
+  margin-left: 20px;
 }
 h2 {
-  color:blue;
+  color:black;
   margin-left:100px
 }
 #navbar ul {
     margin-left: 30px;
     padding: 0;
     overflow: hidden;
-    background-color: lightgreen;
+    background-color: #375637;
 }
 #navbar li{
   float: left;
@@ -26,4 +26,9 @@ h2 {
   padding-bottom: 40px;
   padding-left: 60px;
   text-decoration: none;
+}
+#navbar h1 {
+  text-alighn: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
