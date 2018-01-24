@@ -1,0 +1,29 @@
+<html>
+<Link rel="stylesheet" type="text/css" href="style.css"
+</head>
+<body>
+  <div id="navbar">
+    <ul>
+      <il><a class="active" href="#home">Home</a></lo>
+        <il><a href="page2.html">Page 1 </a></il>
+        <il><a href="page3.html">Page 2</a></il>
+</body>
+</html>
+<!--
+ <head>
+  <title>
+    Saxaphones
+  </title>
+   </head>
+   <style>
+   body {background-color: rgb(98, 201, 202) ;}
+   </style>
+   <body>
+     <h1>Saxaphones</h1>
+     <p>
+     <li><a href="pg2.html"itle="Alto Saxaphones">Alto Saxaphones</a></li>
+     <li><a href="pg3.html"title="Tenor Saxaphones">Tenor Saxaphones</a></li>
+     <li><a href="pg4.html"title="Barri Saxaphones">Barri Saxaphones</a></li>
+   </p>
+</body>
+</html>

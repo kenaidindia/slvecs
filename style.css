@@ -1,0 +1,10 @@
+
+h2 {
+  color:blue;
+  margin:left 30px;
+}
+#sectionone h2 {
+  text-shadow:3px 2px red;
+}
+p {
+  color:blue;}
