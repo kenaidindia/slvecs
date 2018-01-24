@@ -1,5 +1,5 @@
 body  {
-  background: white;
+  background-image: url("congruent_pentagon.png");
 
 }
 
@@ -26,4 +26,8 @@ body  {
 
 #navbar li a:hover {
     background-color: #386533;
+}
+
+img {
+  text-align: center;
 }
