@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{5A1757A7-0817-4192-A274-6FA6522F0B3D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../carnegie.html">
+    <Files>
+      <File FileName="../carnegie.html" Line="32" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
