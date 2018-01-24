@@ -3,7 +3,7 @@
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333;
+  background-image: url("http://timeinc.brightcove.com.edgesuite.net/rtmp_uds/293884104/201703/2681/293884104_5360456295001_5360434467001-vs.jpg?pubId=293884104&videoId=5360434467001")
 }
 
 #navbar li {
@@ -23,9 +23,11 @@
 }
 
 #navbar li a:hover {
-  background-color: #111;
+  background-color: #00000061;
 }
-
-#title h1 {
-  
+#navbar li a:hover:not(.active) {
+  background-color: ##00000061;
+}
+.active {
+  background-color:#0080007a;
 }
