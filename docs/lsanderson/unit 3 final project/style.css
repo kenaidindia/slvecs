@@ -1,0 +1,38 @@
+body {
+  background-color: black; text-align: center
+}
+#navbar ul {
+  list-style-type: none;
+  margin:0;
+  padding: 0;
+  overflow:hidden;
+  background-color: white;
+}
+#navbar li {
+  float: left;
+}
+#navbar li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+#navbar li a:hover {
+  color: blue; background-color: red;
+}
+h1 {
+  font-family: "helvetica";
+  text-align: center;
+  font-size: 50px;
+  color: white;
+  border-style: solid;
+}
+p {
+  font-family: "helvetica";
+  text-align: center;
+  color: white;
+}
+figcaption {
+  color:white; font-size: 13px;
+}
