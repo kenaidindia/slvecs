@@ -1,18 +1,19 @@
-#sectionone p {
-  color:lightgreen;
+#sectionone h1 {
+  text-shadow: 3px 2px lightgreen;
+  text-align: center;
+  }
+  p {
   margin-left:30px;
   }
-  h2 {
-    color:green;
-    margin-left:50px;
-    text-shadow: 3px 2px lightgreen;
+  h3 {
+    margin-left:30px;
   }
 
 #navbar ul{
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: grey;
+  background-color: lightgreen;
   }
 
 #navbar li{
@@ -21,7 +22,7 @@
 
 #navbar li a{
   display: block;
-  color: darkblue;
+  color: green;
   text-align: center;
   padding-top: 20px;
   padding-right: 40px;
