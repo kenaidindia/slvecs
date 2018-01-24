@@ -1,0 +1,27 @@
+<html>
+ <head>
+  <tittle>
+    Brodies first Webpage
+  </tittle>
+</head>
+  <body>
+    <h1>
+this takes forever
+    </h1>
+<p>
+     first link
+<br />I hope this works
+</p>
+<a href="http://google.com" title="brodies home page"> Brodies home page</a>
+ </body>
+</html>
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>I learned that I am not good at this</h1>
+
+<p>I also learned what html stands for.</p>
+
+</body>
+</html>
